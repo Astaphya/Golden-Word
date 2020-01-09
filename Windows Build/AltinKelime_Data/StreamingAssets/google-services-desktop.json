@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "411174557954",
+    "firebase_url": "https://noble-serenity-245707.firebaseio.com",
+    "project_id": "noble-serenity-245707",
+    "storage_bucket": "noble-serenity-245707.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:411174557954:android:c529627910b3fa1c",
+        "android_client_info": {
+          "package_name": "com.Company.AltinKelime"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "411174557954-1h2k317dk44qa9u4k09tvleeee2h92n5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpCBDvj5WDWZhUj8hii0ShsTciOm_q59k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "411174557954-1h2k317dk44qa9u4k09tvleeee2h92n5.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "411174557954-l7fj16h87dl5nf8hk7mnp73a32bleco0.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.Company.AltinKelime"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
