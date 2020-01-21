@@ -27,7 +27,9 @@ Gold Word is a 2D, turn-based, online board game. Crossplatfom is a working appl
 
 ## Developers
 **Ender Temel**
+
 **İhsan Kıyıcı**
+
 **Alperen Gürbüz**
 
 
